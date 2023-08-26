@@ -1,6 +1,7 @@
 # Applied Data Science With Python
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="Python Logo" width="50">
+
 
 This repository contains my notes, and projects for the **Applied Data Science With Python** course offered by the University of Michigan on Coursera.
 
