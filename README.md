@@ -1,6 +1,6 @@
 # Applied Data Science With Python
 
-![University of Michigan Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC9JPJoeQo9ohpzZUzEsU6Og&psig=AOvVaw0SUY-49C_lNBXrRG8DCmq_&ust=1693130669461000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIj137KJ-oADFQAAAAAdAAAAABAE)
+![Python](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_%2528programming_language%2529&psig=AOvVaw3xdOpLUYpu8ynUYO-iccZV&ust=1693130993745000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjZ0s2K-oADFQAAAAAdAAAAABAE)
 
 This repository contains my notes, and projects for the **Applied Data Science With Python** course offered by the University of Michigan on Coursera.
 
